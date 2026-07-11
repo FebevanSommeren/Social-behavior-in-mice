@@ -1,0 +1,2 @@
+subject_id,batch_cage,nwb_file,reason
+b2c4.4,b2c4.4_9006,3C_sociability_b2c4.3_backup.nwb,No behavior file found for b2c4.4_9006. Skipping subject b2c4.4: No usable epochs created

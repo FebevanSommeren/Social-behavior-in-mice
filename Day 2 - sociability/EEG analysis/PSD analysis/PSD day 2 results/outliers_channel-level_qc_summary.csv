@@ -1,0 +1,15 @@
+,subject_id,channel,n_outlier_bands,bands,max_abs_z
+9,b2c4.2,AI_R,6,"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']",6.287763865521262
+8,b2c4.2,AI_L,6,"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']",6.285196291643423
+7,b2c2.3,PCA_R,6,"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']",6.2623798783457145
+4,b1c1.3,S1_L,6,"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']",6.098549058205725
+5,b1c1.4,PMC_R,6,"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']",5.951131646159184
+1,b1c1.2,ACA_R,6,"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']",5.74306874584334
+10,b3c1.4,A1_L,5,"['alpha', 'beta', 'delta', 'gamma', 'theta']",5.630943098920474
+3,b1c1.3,A1_R,6,"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']",5.484217856122348
+0,b1c1.1,S1_L,2,"['beta', 'gamma']",5.197982441678485
+13,b3c2.2,A1_L,1,['line_noise'],4.856527064758407
+2,b1c1.2,PMC_R,3,"['beta', 'gamma', 'line_noise']",4.299005150683674
+11,b3c1.4,A1_R,1,['alpha'],3.6470194534754783
+12,b3c1.4,ACA_R,2,"['alpha', 'delta']",3.168958495405914
+6,b2c2.1,ACA_R,1,['delta'],3.0404177510101924

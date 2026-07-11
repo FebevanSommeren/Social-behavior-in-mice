@@ -1,0 +1,15 @@
+mne
+mne-connectivity
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+statsmodels
+pynwb
+ndx-events
+hdmf
+h5py
+opencv-python
+python-dateutil
+openpyxl

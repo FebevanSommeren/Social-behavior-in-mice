@@ -1,0 +1,10 @@
+,subject_id,n_outlier_channels,n_outlier_entries,channels,bands
+2,b1c1.3,2,12,"['A1_R', 'S1_L']","['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']"
+6,b2c4.2,2,12,"['AI_L', 'AI_R']","['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']"
+1,b1c1.2,2,9,"['ACA_R', 'PMC_R']","['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']"
+7,b3c1.4,3,8,"['A1_L', 'A1_R', 'ACA_R']","['alpha', 'beta', 'delta', 'gamma', 'theta']"
+3,b1c1.4,1,6,['PMC_R'],"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']"
+5,b2c2.3,1,6,['PCA_R'],"['alpha', 'beta', 'delta', 'gamma', 'line_noise', 'theta']"
+0,b1c1.1,1,2,['S1_L'],"['beta', 'gamma']"
+4,b2c2.1,1,1,['ACA_R'],['delta']
+8,b3c2.2,1,1,['A1_L'],['line_noise']
